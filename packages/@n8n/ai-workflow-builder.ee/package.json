@@ -46,7 +46,7 @@
     "@n8n/config": "workspace:*",
     "@n8n/di": "workspace:*",
     "@n8n_io/ai-assistant-sdk": "catalog:",
-    "langsmith": "^0.3.45",
+    "langsmith": "^0.6.0",
     "lodash": "catalog:",
     "n8n-workflow": "workspace:*",
     "picocolors": "catalog:",
